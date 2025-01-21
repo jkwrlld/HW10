@@ -1,20 +1,10 @@
-body {
+.body {
     font-family: "Roboto", serif;
-    /* Ефективні рішення для вашого бізнесу */
+}
 
-
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 44px;
-line-height: 60px;
-/* or 136% */
-text-align: center;
-letter-spacing: 0.06em;
-text-transform: uppercase;
-
-color: #FFFFFF;
-
-
+.header-title-1 {
+    font-family: "Raleway", serif;
+}
+.footer-title-1 {
+    font-family: "Raleway", serif;
 }
