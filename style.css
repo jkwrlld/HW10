@@ -4,6 +4,19 @@
 
 .header-title-1 {
     font-family: "Raleway", serif;
+    /* WebStudio */
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: calc(31 / 26);
+/* identical to box height */
+letter-spacing: 0.03em;
+
+color: #2196F3;
+
+
 }
 .footer-title-1 {
     font-family: "Raleway", serif;
